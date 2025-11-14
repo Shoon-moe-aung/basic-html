@@ -1,0 +1,78 @@
+/* Reset basic margins */
+body, h1, h2, p, ul {
+    margin: 0;
+    padding: 0;
+}
+
+/* Background color for whole page */
+body {
+    background-color: #f2f2f2;
+    font-family: Arial, sans-serif;
+}
+
+/* --- HEADER --- */
+.header {
+    background-color: #0029ff;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+/* --- MAIN CONTENT WRAPPER --- */
+.content {
+    max-width: 900px;
+    margin: 20px auto;
+    background-color: white;
+    border-radius: 8px;
+    padding: 20px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+/* Profile picture */
+.profile-img {
+    width: 180px;
+    height: auto;
+    border-radius: 8px;
+    display: block;
+    margin-bottom: 20px;
+}
+
+/* Section Titles */
+h2 {
+    font-size: 22px;
+    margin-bottom: 10px;
+}
+
+/* Biography section */
+.biography {
+    background: white;
+    padding: 20px;
+    border-radius: 8px;
+    margin-bottom: 20px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.08);
+}
+
+/* Achievements section */
+.achievements {
+    background: white;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.08);
+}
+
+.achievements ul {
+    margin-top: 10px;
+    margin-left: 20px;
+}
+
+/* --- FOOTER --- */
+.footer {
+    background-color: #0029ff;
+    color: white;
+    text-align: center;
+    padding: 12px;
+    margin-top: 20px;
+    font-size: 14px;
+}
