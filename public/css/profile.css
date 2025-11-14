@@ -20,3 +20,12 @@ body {
     color: #333; 
   
   } 
+
+  section {
+    background-color: #e2d0ff;
+    color: #3a0066;
+    font-size: 1.25em;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 10px;
+  }
