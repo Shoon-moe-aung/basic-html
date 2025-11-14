@@ -12,7 +12,7 @@ body {
 
 /* --- HEADER --- */
 .header {
-    background-color: #0029ff;
+    background-color: #6a0dad;   /* PURPLE */
     color: white;
     text-align: center;
     padding: 20px;
@@ -69,7 +69,7 @@ h2 {
 
 /* --- FOOTER --- */
 .footer {
-    background-color: #0029ff;
+    background-color: #6a0dad;   /* PURPLE */
     color: white;
     text-align: center;
     padding: 12px;
